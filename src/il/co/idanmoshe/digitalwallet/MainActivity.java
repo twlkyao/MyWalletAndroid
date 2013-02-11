@@ -57,6 +57,7 @@ public class MainActivity extends Activity {
 		actionBar.setSubtitle("Total expenses: " + expenseCount + " $, Total income: " + incomeCount + " $");
 		actionBar.show();
 		
+		/*
 		Button btnTestButton = (Button) findViewById(R.id.button1); // TEST - TAB SWIPE
 		btnTestButton.setOnClickListener(new View.OnClickListener() {
 			
@@ -65,7 +66,7 @@ public class MainActivity extends Activity {
 				Intent testIntent = new Intent(MainActivity.this, TabSwipe1.class);
 				startActivity(testIntent);
 			}
-		});
+		});   */
 		
 		btnSettings.setOnClickListener(new View.OnClickListener() { // SETTINGS
 
