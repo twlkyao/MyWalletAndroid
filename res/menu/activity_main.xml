@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item android:id="@+id/addExpense" android:title="Add Expense"></item>
+    <item android:id="@+id/addIncome" android:title="Add Income"></item>
+    <item android:id="@+id/backupAndRestore" android:title="Backup/Restore"></item>
+    <item android:id="@+id/statistics" android:title="Statistics"></item>
+    <item android:id="@+id/menu_settings" android:title="@string/menu_settings" /><item android:id="@+id/historyIncome" android:title="Income History"></item>
+
+</menu>

@@ -1,0 +1,73 @@
+<resources>
+
+    <string name="app_name">הארנק הדיגיטלי שלי</string>
+    <string name="choose_income_type">בחר סוג הכנסה</string>
+    <string name="choose_payment">בחר סוג תשלום</string>
+    <string name="date">תאריך</string>
+    <string name="description">תיאור</string>
+    <string name="location">מיקום</string>
+    <string name="menu_settings">הגדרות</string>
+    <string name="photo_location">מיקום התמונה</string>
+    <string name="price">מחיר</string>
+    <string name="category">קטגוריה</string>
+    <string name="time">זמן</string>
+    <string name="title_activity_add_income">הוספת הכנסה</string>
+    <string name="title_activity_add_product">הוספת הוצאה</string>
+    <string name="title_activity_backup_and_restore">גיבוי ושחזור</string>
+    <string name="title_activity_history">היסטורית הוצאות</string>
+    <string name="title_activity_history_income">היסטורית הכנסות</string>
+    <string name="title_activity_pie_chart_example">דיאגרמת עוגה</string>
+    <string name="title_activity_record_audio">הקלטת הערה קולית</string>
+    <string name="title_activity_remove_item">הסרת הוצאה</string>
+    <string name="title_activity_show_income">תצוגת הכנסה</string>
+    <string name="title_activity_show_item">תצוגת הוצאה</string>
+    <string name="title_activity_statistics">סטטיסטיקה</string>
+    <string name="title_activity_voice_recognition">זיהוי קולי</string>
+    <string name="please_select">בחר בבקשה</string>
+    <string name="remove_income">הסרת הכנסה</string>
+    <string name="add_expense">הוספת הוצאה</string>
+    <string name="add_income">הוספת הכנסה</string>
+    <string name="statistics_expenses">סטטיסטיקת הוצאות</string>
+    <string name="statistics_income">סטטיסטיקת הכנסות</string>
+    <string name="share">פרסם בפייסבוק</string>
+    <string name="welcome">ברוך הבא</string>
+    <string name="take_a_photo">צלם תמונה</string>
+    <string name="load_an_image">בחר מגלריה</string>
+    <string name="payment_category">סוג התשלום</string>
+    <string name="product_category">סוג המוצר</string>
+    <string name="short_description">הכנס תיאור</string>
+    <string name="amount">סכום</string>
+    <string name="payee_name">שם המשלם</string>
+    <string name="money_amount">סכום הכסף</string>
+    <string name="payment_method">שיטת תשלום</string>
+    <string name="not_support_gps">מיקום מבוסס ג\'י.פי.אס לא נתמך</string>
+    <string name="not_support_network">מיקום מבוסס רשת לא נתמך</string>
+    
+        <string-array name="PaymentOption">
+        <item>מזומן</item>
+        <item>כרטיס אשראי</item>
+        <item>צ\'ק</item>
+        <item>שונות</item>
+    </string-array>
+    <string-array name="ProductCategory">
+        <item>אופנה</item>
+        <item>עיצוב פנים</item>
+        <item>עיצוב חוץ</item>
+        <item>מוצרי חשמל</item>
+        <item>מוצרי ספורט</item>
+        <item>מוטוריקה</item>
+        <item>אמנות ואוספים</item>
+        <item>שונות</item>
+    </string-array>
+        <string-array name="income_type">
+        <item>משכורת</item>
+        <item>העברה בין חשבונות</item>
+        <item>החזרי מס</item>
+        <item>פנסיה</item>
+        <item>חסכונות</item>
+        <item>משרה חלקית</item>
+        <item>ביטוח לאומי</item>
+        <item>שונות</item>
+    </string-array>
+    
+</resources>
